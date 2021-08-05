@@ -2,10 +2,6 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-type Number = {
-  obj: string;
-};
-
 function App() {
   return (
     <div className="App">
